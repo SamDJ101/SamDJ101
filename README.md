@@ -5,7 +5,6 @@
 - 🧠 Researching **MRI data synthesis** and **Multi-objective optimization techniques**
 - 🌐 I build full-stack tools and optimize kernels using Triton
 
-- 📝 I occasionally write on [my portfolio](https://djsam.netlify.app/)
 - 💬 Ask me about **PyTorch, Triton kernels, AWS, and training models under resource-constrainted environments**
 - 📫 How to reach me: **samdj0245@gmail.com**
 
